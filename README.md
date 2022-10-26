@@ -26,7 +26,7 @@ My skills >> <br><br>
 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝐂𝐎𝐍𝐓𝐑𝐎𝐋 >> <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![60%](https://progress-bar.dev/60)		Git<br>
 
-𝐈𝐃𝐄’𝐒 >> <br><br>
+𝐈𝐃𝐄 >> <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![60%](https://progress-bar.dev/60)		VS Code<br>
 
 

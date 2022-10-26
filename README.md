@@ -39,7 +39,7 @@ My skills >> <br><br>
 <img align="left" alt="Sass" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png?20150315202757" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" style="padding-right:10px;" />
 <img align="left" alt="Python" width="30px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" style="padding-right:10px;" />
-<img align="left" alt="PostgreSQL" width="30px" src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png" 
+<img align="left" alt="PostgreSQL" width="30px" src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png" />
 <img align="left" alt="Flask" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/460px-Flask_logo.svg.png?20120519143422"/>
 <br><br><br>
 

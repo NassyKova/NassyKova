@@ -21,6 +21,8 @@ My skills >> <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![40%](https://progress-bar.dev/40)		PostgreSQL<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![30%](https://progress-bar.dev/30)		JavaScript<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![30%](https://progress-bar.dev/30)		Flask<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![30%](https://progress-bar.dev/30)		React
+
 
 
 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝐂𝐎𝐍𝐓𝐑𝐎𝐋 >> <br><br>
@@ -41,6 +43,7 @@ My skills >> <br><br>
 <img align="left" alt="Python" width="30px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" style="padding-right:10px;" />
 <img align="left" alt="PostgreSQL" width="30px" src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png" />
 <img align="left" alt="Flask" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/460px-Flask_logo.svg.png?20120519143422"/>
+<img align="left" alt="React" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/>
 <br><br><br>
 
 #### Lets Connect! <br> 

@@ -10,26 +10,25 @@
   <li>💼 I’m currently studying at Web Developing Bootcamp at <a href = "https://www.coderacademy.edu.au/web-development-bootcamp?" target="_blank">Coder Academy</li></a>   
   <li> 🎤 After work I study improv and sing in a choir</li>
 
-</ul>
+</ul><br><br>
 
 
-My skills >> <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![50%](https://progress-bar.dev/50)		HTML5<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![50%](https://progress-bar.dev/50)		CSS3<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![50%](https://progress-bar.dev/50)		SASS<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![50%](https://progress-bar.dev/50)		Python<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![40%](https://progress-bar.dev/40)		PostgreSQL<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![30%](https://progress-bar.dev/30)		JavaScript<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![30%](https://progress-bar.dev/30)		Flask<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![30%](https://progress-bar.dev/30)		React
+My skills >> <br>
+HTML5<br>
+CSS3<br>
+SASS<br>
+Python<br>
+PostgreSQL<br>
+JavaScript<br>
+Flask<br>
+React
 
 
+𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝐂𝐎𝐍𝐓𝐑𝐎𝐋 >> <br>
+Git<br>
 
-𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝐂𝐎𝐍𝐓𝐑𝐎𝐋 >> <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![60%](https://progress-bar.dev/60)		Git<br>
-
-𝐈𝐃𝐄 >> <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![60%](https://progress-bar.dev/60)		VS Code<br>
+𝐈𝐃𝐄 >> <br>
+VS Code<br>
 
 
 <br><br>

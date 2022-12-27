@@ -12,16 +12,21 @@
 
 </ul><br><br>
 
+<b>PROJECTS</b> >> <br>
+![Hackathoon Team Project](https://github.com/Wade008/hackathon)<br>
+![Terminal Project](https://github.com/NassyKova/Bookshelf)<br>
+![Flask Project](https://github.com/NassyKova/no_geography)<br>
 
-My skills >> <br>
+<b>SKILLS</b> >> <br>
+JavaScript<br>
+Python<br>
+PostgreSQL<br>
+Flask<br>
+React
+MongoDB
 HTML5<br>
 CSS3<br>
 SASS<br>
-Python<br>
-PostgreSQL<br>
-JavaScript<br>
-Flask<br>
-React
 
 
 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝐂𝐎𝐍𝐓𝐑𝐎𝐋 >> <br>

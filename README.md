@@ -22,8 +22,8 @@ JavaScript<br>
 Python<br>
 PostgreSQL<br>
 Flask<br>
-React
-MongoDB
+React<br>
+MongoDB<br>
 HTML5<br>
 CSS3<br>
 SASS<br>

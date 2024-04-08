@@ -7,7 +7,7 @@
 <ul>
 
   <li>💚 I like art, innovation, development, logic and sence</li>
-  <li>💼 I’m currently studying at Web Developing Bootcamp at <a href = "https://www.coderacademy.edu.au/web-development-bootcamp?" target="_blank">Coder Academy</li></a>   
+  <li>💼 Graduated from Web Developing Bootcamp at <a href = "https://www.coderacademy.edu.au/web-development-bootcamp?" target="_blank">Coder Academy</li></a>   
   <li> 🎤 After work I study improv and sing in a choir</li>
 
 </ul><br><br>

@@ -1,3 +1,4 @@
+<!--
 <p align="center">
   <h1 align="center", style="color:#00647D">Hi, I am Nassy👋🏼</h1>
 </p>
@@ -54,7 +55,7 @@ VS Code<br>
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nassykova/)
 &nbsp;
 
-
+-->
 <!--
 progress bar by https://github.com/fredericojordan/progress-bar
 -->
